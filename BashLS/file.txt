@@ -1,0 +1,2 @@
+date;pwd;ls
+doroy
